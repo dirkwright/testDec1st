@@ -11,18 +11,7 @@ do you see this this change
 change made from Toby's computer
 
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 hi toby
-
-hi again 
-=======
-hi toby 
 
 jdjdjdj
->>>>>>> 5ee65684173f39e33648ac4ec17710543f0a42c5
-=======
-hi toby
-
-jdjdjdj hi hi 
->>>>>>> 1a52bfd14a080fdce11533e395a2cd3b4185cd4e
+kdkdkd 
