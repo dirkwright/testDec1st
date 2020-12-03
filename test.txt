@@ -11,6 +11,12 @@ do you see this this change
 change made from Toby's computer
 
 
+<<<<<<< HEAD
 hi toby
 
 hi again 
+=======
+hi toby 
+
+jdjdjdj
+>>>>>>> 5ee65684173f39e33648ac4ec17710543f0a42c5
