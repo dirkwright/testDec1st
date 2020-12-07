@@ -1,5 +1,6 @@
 hi
 hello
+<<<<<<< HEAD
 yes
 do you see this change
 change made on Mr Wright's Computer
@@ -13,3 +14,7 @@ change made from Toby's computer
 
 hi toby
 hi Mr Wright
+=======
+hola
+hi 
+>>>>>>> ab0a17d39fa08f754da5b9b6aad7782654abe670
